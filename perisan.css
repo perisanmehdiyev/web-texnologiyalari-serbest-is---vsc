@@ -1,0 +1,141 @@
+.main{
+    height:600px;
+    background-image:url(https://azkataloq.org/files/preview/1280x470/11627296148m0rcxtfgtlq5llbiekaopll0uhtbn8zwpm9esmksbuas2muy146294ovuh3l9dybfbwr7mqubmqe4lwagnnhzfwwkxnkcjfrzgpu.jpg);
+    background-size:cover;
+    }
+    .main2{
+    height:800px;
+    background-image:url(https://kultur.az/wp-content/uploads/2018/12/umummilli-lieder.jpg);
+    background-size:cover;
+    }
+    .main3{
+    height:1200px;
+    background-image:url(https://azkataloq.org/files/preview/1280x470/11627296148m0rcxtfgtlq5llbiekaopll0uhtbn8zwpm9esmksbuas2muy146294ovuh3l9dybfbwr7mqubmqe4lwagnnhzfwwkxnkcjfrzgpu.jpg);
+    background-size:cover;
+    }
+    .logo{
+    height:80px;
+    padding:20px;
+    }
+    nav{
+    padding-top:30px!important;
+    padding-left:150px!important;
+    padding-right:350px!important;
+    }
+    .nav-link{
+    font-size:18px;
+    color:grey;
+    }
+    .navbar-toggler{
+    background-color:grey;
+    }
+    .fa-bus{
+    color:red;
+    font-size:30px;
+    }
+    body{
+    background-color:#f2f5f5;
+    }
+    .qutu{
+    width:100%;
+    height:350px;
+    background-color:white;
+    text-align:center;
+    padding-top:40px;
+    }
+    .sekil{
+    transition:all 0.5s;
+    }
+    .qutu:hover .sekil{
+    transform:scaleX(-1);
+    }
+    .title{
+    font-size:17px;
+    font-weight:bold;
+    }
+    .title{
+    margin-top:30px;
+    }
+    .qutu{
+    transition: all 0.5s;
+    }
+    .qutu:hover{
+    box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+    }
+    .basliq{
+    color:black;
+    font-size:70px;
+    font-family:arial;
+    }
+    .altyazi{
+    color:white;
+    font-family:arial;
+    }
+    .navbar-brand{
+    font-family:arial;
+    font-size:30px;
+    font-weight:bold;
+    }
+    .basliq2{
+    color:black;
+    font-size:60px;
+    font-weight:bold;
+    font-family:arial;
+    }
+    .altyazi2{
+    color:BLACK;
+    font-family:arial;
+    }
+    .altyazi3{
+    color:white;
+    font-weight:bold;
+    font-family:arial;
+    }
+    .link{
+    color:black;
+    font-weight:bold;
+    }
+    .sekil1{
+    transition:all 0.5s;
+    }
+    .qutu1:hover .sekil{
+    transform:scaleX(-1);
+    }
+    .title1{
+    font-size:10px;
+    font-weight:bold;
+    }
+    .title1{
+    margin-top:7px;
+    }
+    .qutu1{
+    transition: all 0.5s;
+    }
+    .qutu1:hover{
+    box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.75);
+    }
+    .qutu6{
+    width:100%;
+    height:240px;
+    background-color:white;
+    text-align:center;
+    padding-top:20px;
+    }
+    .qutu7{
+    width:100%;
+    height:240px;
+    background-color:white;
+    text-align:center;
+    padding-top:20px;
+    }
+    .qutu8{
+    width:100%;
+    height:240px;
+    background-color:white;
+    text-align:center;
+    padding-top:20px;
+    }
